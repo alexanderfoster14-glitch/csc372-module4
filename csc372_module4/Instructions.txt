@@ -6,52 +6,67 @@ Create an abstract class Shape with the following specifications:
 	Put your code in a Java source file named "Shape.java."
 
 Part 1
-Create a class Sphere that extends the Shape class with the following specifications:
+Create a class Sphere that extends the Shape class with the following
+	specifications:
 	Attributes:
 		Radius
 	Constructor:
-		Implement a parameterized constructor needed to initialize the data.
+		Implement a parameterized constructor needed to initialize
+		the data.
 	toString:
-		Implement a toString method that prints out the surface area and volume.
+		Implement a toString method that prints out the surface area
+		and volume.
 Implement methods to compute the surface area and volume.
 
 Part 2
-Create a class Cylinder that extends the Shape class with the following specifications:
+Create a class Cylinder that extends the Shape class with the
+	following specifications:
 	Attributes:
 		Radius, height - both of type double
 	Constructor:
 		Implement a parameterized constructor to initialize the data.
 	toString:
-		Implement a toString method that prints out the surface area and volume.
+		Implement a toString method that prints out the surface
+		area and volume.
 Implement methods to compute the surface area and volume.
 
 Part 3
-Create a class Cone that extends the Shape class with the following specifications:
+Create a class Cone that extends the Shape class with the following
+	specifications:
 	Attributes:
 		Radius, height - both of type double
 	Constructor:
 		Implement a parameterized constructor to initialize the data.
 	toString:
-		Implement a toString method that prints out the surface area and volume.
+		Implement a toString method that prints out the surface area
+		and volume.
 Implement methods to compute the surface area and volume.
 
 Part 4
-Create a driver class named ShapeArray with the following specifications:
+Create a driver class named ShapeArray with the following
+	specifications:
 	Instantiate one sphere.
 	Instantiate one cylinder.
 	Instantiate one cone.
 	Store the class instances into an array named shapeArray.
-	Loop through the array and print out the instance data of each object using the object instance's toString method.
+	Loop through the array and print out the instance data of
+		each object using the object instance's toString method.
+
 Show a Unified Modeling Language (UML) diagram of your project.
 
 What to submit?
-1. Your source code in text version (not screenshot).
-2. Your entire IDE screenshot displaying source code and output.
-3. Include additional output screenshots displaying different test cases.
-4. Screenshot of your version control or GIT repository link.
-5. Include Unified Modeling Language (UML) diagram with proper labeling
-6. Attach all these components into a single Microsoft Word document or
-	submit a zip file containing all of these components. 
+	Your source code in text version (not screenshot).
+	Your entire IDE screenshot displaying source code and output.
+	Include additional output screenshots displaying different test
+	cases.
+	Screenshot of your version control or GIT repository link.
+	Include Unified Modeling Language (UML) diagram with proper
+		labeling
+	Attach all these components into a single Microsoft Word document or submit a zip file containing all of these components.
+
+
+
+
 
 
 

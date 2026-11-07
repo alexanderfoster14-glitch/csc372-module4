@@ -1,0 +1,69 @@
+Basic Layout
+
+Main source file name
+	Shape.java
+
+abstract class shape() {
+	abstract method surfac_areae() {
+		return type double;
+	}
+	abstract method volume() {
+		return type double;
+	}	
+}
+
+class Sphere extends class Shape() {
+	Attributes:
+		dobule Radious;
+	Construcor:
+		Implement a parameterized constructor
+			needed to initialize the data.
+	method toString() {
+		print surface area and volume;
+	}
+}
+Implement methods to compute the surface area and volume.
+
+class Cylinder extends class Shape() {
+	Attributes:
+		double Radius;
+		double Height;
+	Constructor:
+		Implement a parameterized constructor
+			to initialize the data.
+	method toString () {
+		print surface area and volume;
+	}
+}
+Implement methods to compute the surface area and volume.
+
+class Cone extends class Shape() {
+	Attributes:
+		double Radius;
+		double Height;
+	Constructor:
+		Implement a parameterized constructor to
+			initialize the data.
+	method toString() {
+		print surface area and volume;	
+	}
+}
+Implement methods to compute the surface area and volume.
+
+class ShapeArray() {
+	Instantiate one sphere
+	Instantiate one cylinder
+	Instantiate one cone
+	Store class instances into an array named shapeArray
+	Loop through each array and print out the instance data
+		of each object using the object's isntance's toString
+		method.
+}
+
+
+
+
+
+
+
+
