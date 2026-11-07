@@ -30,7 +30,7 @@ public class Cylinder extends Shape {
 		String infoString = null;
 		infoString = "Surface area of cylinder is: " + surface_area() + "\n"
 			+ "Volume of cylinder is: " + volume();
-		System.out.println(infoString);
+		System.out.println(infoString + "\n");
 		return infoString;
 	}
 

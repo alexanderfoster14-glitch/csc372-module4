@@ -27,7 +27,7 @@ public class Sphere extends Shape{
 		String infoString = null;
 		infoString = "Surface area of sphere is: " + surface_area() + "\n"
 			+ "Volume of sphere is: " + volume();
-		System.out.println(infoString);
+		System.out.println(infoString + "\n");
 		return infoString;
 	}
 	

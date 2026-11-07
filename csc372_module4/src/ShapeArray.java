@@ -13,6 +13,25 @@ public static void main (String[] args) {
 	shapeArray.add(testCylinder);
 	shapeArray.add(testCone);
 	
+	//Test cases
+	/*
+
+	Sphere testSphere1 = new Sphere();
+	Cylinder testCylinder1 = new Cylinder();
+	Cone testCone1 = new Cone();
+	shapeArray.add(testSphere1);
+	shapeArray.add(testCylinder1);
+	shapeArray.add(testCone1);
+	
+	Sphere testSphere2 = new Sphere(2);
+	Cylinder testCylinder2 = new Cylinder(2,5);
+	Cone testCone2 = new Cone(2,2);
+	shapeArray.add(testSphere2);
+	shapeArray.add(testCylinder2);
+	shapeArray.add(testCone2);
+	
+	*/
+	
 	int i;
 	for (i = 0; i < shapeArray.size(); ++i) {
 		shapeArray.get(i).toString();

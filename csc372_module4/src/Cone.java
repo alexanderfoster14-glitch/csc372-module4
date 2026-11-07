@@ -30,7 +30,7 @@ public class Cone extends Shape {
 		String infoString = null;
 		infoString = "Surface area of cone is: " + surface_area() + "\n"
 			+ "Volume of cone is: " + volume();
-		System.out.println(infoString);
+		System.out.println(infoString + "\n");
 		return infoString;
 	}
 	
