@@ -1,5 +1,5 @@
 
-public class Sphere extends Shape{
+public class Sphere extends Shape {
 	double Radius;
 	
 	//Constructors

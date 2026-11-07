@@ -15,7 +15,6 @@ public static void main (String[] args) {
 	
 	//Test cases
 	/*
-
 	Sphere testSphere1 = new Sphere();
 	Cylinder testCylinder1 = new Cylinder();
 	Cone testCone1 = new Cone();
@@ -29,7 +28,6 @@ public static void main (String[] args) {
 	shapeArray.add(testSphere2);
 	shapeArray.add(testCylinder2);
 	shapeArray.add(testCone2);
-	
 	*/
 	
 	int i;
