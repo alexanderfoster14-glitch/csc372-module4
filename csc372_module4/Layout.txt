@@ -50,7 +50,7 @@ class Cone extends class Shape() {
 }
 Implement methods to compute the surface area and volume.
 
-class ShapeArray() {
+"driver" class ShapeArray() {
 	Instantiate one sphere
 	Instantiate one cylinder
 	Instantiate one cone
@@ -60,7 +60,14 @@ class ShapeArray() {
 		method.
 }
 
+UML
 
+-----------------------------
+|							|
+|---------------------------|
+|
+|
+|
 
 
 
